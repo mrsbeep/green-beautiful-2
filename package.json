@@ -1,0 +1,80 @@
+{
+  "name": "green-beautiful-color-themes",
+  "displayName": "Green Beautiful Color Themes",
+  "description": "10 stunning color themes including Green Dark, Ocean Deep, Crimson Night, Lavender Breeze, and more. Professional dark, light, and high-contrast themes for VS Code.",
+  "version": "2.0.0",
+  "engines": {
+    "vscode": "^1.106.1"
+  },
+  "icon": "icons/icon.png",
+  "author": {
+    "name": "David Lee",
+    "email": "dark.butterfly.dev@gmail.com"
+  },
+  "repository": {
+    "url": "https://github.com/mrsbeep/green-beautiful-2.git",
+    "type": "git"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Green Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Green Dark-color-theme.json"
+      },
+      {
+        "label": "Ocean Deep",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ocean Deep-color-theme.json"
+      },
+      {
+        "label": "Lavender Breeze",
+        "uiTheme": "vs",
+        "path": "./themes/Lavender Breeze-color-theme.json"
+      },
+      {
+        "label": "Crimson Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Crimson Night-color-theme.json"
+      },
+      {
+        "label": "Amber Glow",
+        "uiTheme": "vs",
+        "path": "./themes/Amber Glow-color-theme.json"
+      },
+      {
+        "label": "Azure HC",
+        "uiTheme": "hc-black",
+        "path": "./themes/Azure HC-color-theme.json"
+      },
+      {
+        "label": "Violet Dusk",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Violet Dusk-color-theme.json"
+      },
+      {
+        "label": "Rose Petal HC",
+        "uiTheme": "hc-light",
+        "path": "./themes/Rose Petal HC-color-theme.json"
+      },
+      {
+        "label": "Golden Sunset",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Golden Sunset-color-theme.json"
+      },
+      {
+        "label": "Sky Breeze",
+        "uiTheme": "vs",
+        "path": "./themes/Sky Breeze-color-theme.json"
+      },
+      {
+        "label": "Green Beautiful 2",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Green Beautiful 2-color-theme.json"
+      }
+    ]
+  }
+}
