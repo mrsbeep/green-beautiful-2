@@ -1,8 +1,8 @@
 # Green Beautiful Color Themes
 
-[![Version](https://img.shields.io/visual-studio-marketplace/v/green-beautiful-color-themes?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=davidleedarkbutterflydev.green-beautiful-color-themes)
-[![Installs](https://img.shields.io/visual-studio-marketplace/i/green-beautiful-color-themes?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=davidleedarkbutterflydev.green-beautiful-color-themes)
-[![Rating](https://img.shields.io/visual-studio-marketplace/r/green-beautiful-color-themes?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=davidleedarkbutterflydev.green-beautiful-color-themes)
+[![Version](https://img.shields.io/visual-studio-marketplace/v/davidleedarkbutterflydev.green-beautiful-color-themes?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=davidleedarkbutterflydev.green-beautiful-color-themes)
+[![Installs](https://img.shields.io/visual-studio-marketplace/i/davidleedarkbutterflydev.green-beautiful-color-themes?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=davidleedarkbutterflydev.green-beautiful-color-themes)
+[![Rating](https://img.shields.io/visual-studio-marketplace/r/davidleedarkbutterflydev.green-beautiful-color-themes?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=davidleedarkbutterflydev.green-beautiful-color-themes)
 
 A collection of 11 stunning color themes for Visual Studio Code, designed to enhance your coding experience with beautiful, eye-friendly colors. Whether you prefer dark, light, or high-contrast themes, this extension has something for everyone.
 
