@@ -2,7 +2,7 @@
 
 [![Version](https://img.shields.io/visual-studio-marketplace/v/davidleedarkbutterflydev.green-beautiful-color-themes.png?style=flat-square&cacheSeconds=604800)](https://marketplace.visualstudio.com/items?itemName=davidleedarkbutterflydev.green-beautiful-color-themes)
 [![Installs](https://img.shields.io/visual-studio-marketplace/i/davidleedarkbutterflydev.green-beautiful-color-themes.png?style=flat-square&cacheSeconds=604800)](https://marketplace.visualstudio.com/items?itemName=davidleedarkbutterflydev.green-beautiful-color-themes)
-[![Rating](https://img.shields.io/visual-studio-marketplace/r/davidleedarkbutterflydev.green-beautiful-color-themes.png?style=flat-square&cacheSeconds=604800)](https://marketplace.visualstudio.com/items?itemName=davidleedarkbutterflydev.green-beautiful-color-themes)
+[![Rating](badges/rating.png)](https://marketplace.visualstudio.com/items?itemName=davidleedarkbutterflydev.green-beautiful-color-themes)
 
 A collection of 11 stunning color themes for Visual Studio Code, designed to enhance your coding experience with beautiful, eye-friendly colors. Whether you prefer dark, light, or high-contrast themes, this extension has something for everyone.
 
