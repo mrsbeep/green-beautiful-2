@@ -2,9 +2,9 @@
   "name": "green-beautiful-color-themes",
   "displayName": "Green Beautiful Color Themes",
   "description": "10 stunning color themes including Green Dark, Ocean Deep, Crimson Night, Lavender Breeze, and more. Professional dark, light, and high-contrast themes for VS Code.",
-  "version": "2.0.1",
+  "version": "2.1.0",
   "engines": {
-    "vscode": "^1.106.1"
+    "vscode": "^1.100.0"
   },
   "icon": "icons/icon.png",
   "author": {
@@ -75,6 +75,16 @@
         "label": "Green Beautiful 2",
         "uiTheme": "vs-dark",
         "path": "./themes/Green Beautiful 2-color-theme.json"
+      },
+      {
+        "label": "Rose Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Rose Dark-color-theme.json"
+      },
+      {
+        "label": "Lavender Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Lavender Dark-color-theme.json"
       }
     ]
   }

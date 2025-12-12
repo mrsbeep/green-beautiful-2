@@ -4,12 +4,12 @@
 [![Installs](https://img.shields.io/visual-studio-marketplace/i/davidleedarkbutterflydev.green-beautiful-color-themes.png?style=flat-square&cacheSeconds=604800)](https://marketplace.visualstudio.com/items?itemName=davidleedarkbutterflydev.green-beautiful-color-themes)
 [![Rating](badges/rating.png)](https://marketplace.visualstudio.com/items?itemName=davidleedarkbutterflydev.green-beautiful-color-themes)
 
-A collection of 11 stunning color themes for Visual Studio Code, designed to enhance your coding experience with beautiful, eye-friendly colors. Whether you prefer dark, light, or high-contrast themes, this extension has something for everyone.
+A collection of 13 stunning color themes for Visual Studio Code, designed to enhance your coding experience with beautiful, eye-friendly colors. Whether you prefer dark, light, or high-contrast themes, this extension has something for everyone.
 
 ## ✨ Features
 
-- 🌙 **7 Dark Themes** - Perfect for late-night coding sessions
-- ☀️ **2 Light Themes** - Easy on the eyes during the day
+- 🌙 **8 Dark Themes** - Perfect for late-night coding sessions
+- ☀️ **3 Light Themes** - Easy on the eyes during the day
 - 🎯 **2 High Contrast Themes** - Enhanced visibility and accessibility
 - 🎨 **Carefully Crafted Colors** - Each theme is designed with attention to detail
 - 👁️ **Eye-Friendly** - Balanced contrast and color saturation
@@ -128,6 +128,8 @@ code --install-extension green-beautiful-color-themes
 - Violet Dusk
 - Golden Sunset
 - Sky Breeze
+- Soft Rose Dark
+- Soft Lavender Dark
 
 ### Light Themes (Easy on the Eyes)
 
